@@ -71,11 +71,7 @@ export const PricingSection = () => {
           <div className="text-center space-y-8">
             <div className="flex items-center justify-center space-x-4">
               <div className="w-20 h-20">
-                <img 
-                  src="/lovable-uploads/52284b2f-9e6a-4d05-be77-c13d69be6f28.png" 
-                  alt="Garantia incondicional de 15 dias" 
-                  className="w-full h-full object-contain"
-                />
+                <img src="/lovable-uploads/52284b2f-9e6a-4d05-be77-c13d69be6f28.png" alt="Garantia incondicional de 15 dias" className="w-full h-full object-contain" />
               </div>
               <div className="text-left">
                 <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
@@ -83,9 +79,7 @@ export const PricingSection = () => {
             </div>
             
             <div className="space-y-6 max-w-4xl mx-auto">
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Confiamos tanto neste método que oferecemos uma garantia incondicional de 7 dias. Se você não estiver tocando pandeiro e sentindo a emoção de fazer parte da música, devolvemos cada centavo.
-              </p>
+              <p className="text-lg text-muted-foreground leading-relaxed">Confiamos tanto neste método que oferecemos uma garantia incondicional de 15 dias. Se você não estiver tocando pandeiro e sentindo a emoção de fazer parte da música, devolvemos cada centavo.</p>
             </div>
           </div>
         </div>
