@@ -43,7 +43,7 @@ export const HeroSection = () => {
           {/* Coluna da direita - Vídeo */}
           <div className="flex justify-center">
             <div className="w-full max-w-lg aspect-video rounded-lg overflow-hidden shadow-2xl">
-              <iframe src="https://www.youtube.com/embed/CyIMCbUdjf4" title="Curso de Pandeiro Suzano Express" className="w-full h-full" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              <iframe src="https://www.youtube.com/embed/ip7hZxiFIyE" title="Curso de Pandeiro Suzano Express" className="w-full h-full" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
             </div>
           </div>
         </div>
