@@ -13,31 +13,29 @@ export const HeroSection = () => {
           <div className="space-y-8 text-center lg:text-left">
             <div className="space-y-4">
               <p className="text-sm uppercase tracking-wide text-primary font-medium">
-
-
-
-CURSO DE PANDEIRO SUZANO EXPRESS</p>
+7 RITMOS ESSENCIAIS DO PANDEIRO
+              </p>
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-                
-                <span className="text-primary">suzano express</span>
-                
+                <span className="text-foreground">Cansado de apenas </span>
+                <span className="text-primary">ouvir o pandeiro</span>
+                <span className="text-foreground">, enquanto sonha em tocar?</span>
               </h1>
               
             </div>
             
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                <span className="text-foreground">Aprenda a criar seus próprios ritmos no pandeiro e surpreenda — mesmo que esteja </span>
-                <span className="text-primary">começando do zero.</span>
-                
+                <span className="text-foreground">Chegou a hora de </span>
+                <span className="text-primary">encontrar seu ritmo</span>
+                <span className="text-foreground"> e fazer parte da música.</span>
               </h2>
               
-              <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">Está cansado(a) de não ter ideias na hora de tocar pandeiro? Com nosso método exclusivo, você vai desbloquear seu potencial criativo e apresentar ritmos novos e empolgantes. Domine técnicas inovadoras e impressione a todos!</p>
+              <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">Se você já se sentiu intimidado por aquele amigo que domina o pandeiro, ou simplesmente não sabe por onde começar, este é o guia perfeito. Em apenas 7 dias, você terá em suas mãos os 7 ritmos essenciais para tocar suas primeiras músicas com confiança.</p>
             </div>
             
             <div className="pt-8">
               <Button variant="hero" size="xl" className="mb-8" asChild>
-                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">QUERO COMEÇAR AGORA</a>
+                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">QUERO COMEÇAR AGORA POR R$ 27,00</a>
               </Button>
             </div>
           </div>

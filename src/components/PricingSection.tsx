@@ -8,6 +8,12 @@ export const PricingSection = () => {
         <div className="max-w-6xl mx-auto space-y-16">
           
           
+          <div className="text-center space-y-8 mb-16">
+            <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-4xl mx-auto">
+              Este curso não é apenas sobre aprender a tocar. É sobre transformar a sua relação com a música. E hoje, estamos tornando isso possível por um preço que não é desculpa para adiar seu sonho.
+            </p>
+          </div>
+          
           <div className="flex justify-center">
             {/* Plano Anual */}
             <Card className="p-8 space-y-8 border-primary bg-gradient-primary/5 relative overflow-hidden max-w-md w-full">
@@ -16,16 +22,16 @@ export const PricingSection = () => {
               </Badge>
               
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold">Plano PRO</h3>
+                <h3 className="text-xl font-semibold">Acelere seu sonho musical</h3>
                 
                 <div className="space-y-2">
                   <p className="text-lg">
-                    De <span className="line-through text-muted-foreground">R$ 397,00</span> por apenas:
+                    De <span className="line-through text-muted-foreground">R$ 97,00</span> por apenas:
                   </p>
                   
                   <div className="space-y-1">
-                    <div className="text-4xl md:text-5xl font-bold text-primary">12x de R$22,70</div>
-                    <p className="text-lg text-muted-foreground">Ou R$ 227 à vista no Pix</p>
+                    <div className="text-4xl md:text-5xl font-bold text-primary">R$ 27,00</div>
+                    <p className="text-lg text-muted-foreground">à vista</p>
                   </div>
                 </div>
               </div>
@@ -40,7 +46,7 @@ export const PricingSection = () => {
               </div>
               
               <Button variant="hero" size="xl" className="w-full" asChild>
-                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">QUERO COMEÇAR AGORA</a>
+                <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">GARANTIR MEU ACESSO AGORA POR R$ 27,00</a>
               </Button>
               
               <div className="flex items-center justify-center space-x-4 pt-4">
@@ -65,29 +71,16 @@ export const PricingSection = () => {
           <div className="text-center space-y-8">
             <div className="flex items-center justify-center space-x-4">
               <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">15D</span>
+                <span className="text-primary-foreground font-bold text-lg">7D</span>
               </div>
               <div className="text-left">
-                <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
+                <h3 className="text-2xl font-bold">Garantia incondicional de 7 dias</h3>
               </div>
             </div>
             
             <div className="space-y-6 max-w-4xl mx-auto">
-              <p className="text-xl font-semibold text-center">
-                Você está protegido pela nossa<br />
-                <span className="text-primary">★ Garantia Incondicional de Satisfação ★</span>
-              </p>
-              
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Ao se inscrever hoje, seu risco é zero, pois você conta com a garantia total e incondicional de satisfação do Suzano Express.
-              </p>
-              
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Se você não ficar satisfeito com o método, basta nos enviar um e-mail dentro de 15 dias e devolveremos 100% do seu dinheiro — sem perguntas.
-              </p>
-              
-              <p className="text-lg text-muted-foreground leading-relaxed">
-                Acreditamos que não vamos chegar a esse ponto, mas, se você realmente estiver em dúvida se isso vai funcionar para você ou não, fique tranquilo: você tem garantia.
+                Confiamos tanto neste método que oferecemos uma garantia incondicional de 7 dias. Se você não estiver tocando pandeiro e sentindo a emoção de fazer parte da música, devolvemos cada centavo.
               </p>
             </div>
           </div>
