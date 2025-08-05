@@ -45,8 +45,8 @@ export const PricingSection = () => {
                   </div>)}
               </div>
               
-              <Button variant="hero" size="xl" className="w-full" asChild>
-                <a href="https://sun.eduzz.com/1W3ZRKAPW2?utm_source=7+ritmos+essenciais+do+pandeiro+pv&utm_id=7rep_pv">GARANTIR MEU ACESSO AGORA POR R$ 27,0</a>
+              <Button variant="hero" size="xl" className="w-full text-sm md:text-base" asChild>
+                <a href="https://sun.eduzz.com/1W3ZRKAPW2?utm_source=7+ritmos+essenciais+do+pandeiro+pv&utm_id=7rep_pv">QUERO MEU ACESSO AGORA POR R$ 27,00</a>
               </Button>
               
               <div className="flex items-center justify-center space-x-4 pt-4">
