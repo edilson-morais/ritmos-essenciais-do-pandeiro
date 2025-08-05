@@ -74,7 +74,7 @@ export const PricingSection = () => {
                 <span className="text-primary-foreground font-bold text-lg">7D</span>
               </div>
               <div className="text-left">
-                <h3 className="text-2xl font-bold">Garantia incondicional de 7 dias</h3>
+                <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
               </div>
             </div>
             
