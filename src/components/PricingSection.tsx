@@ -70,8 +70,12 @@ export const PricingSection = () => {
           
           <div className="text-center space-y-8">
             <div className="flex items-center justify-center space-x-4">
-              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">7D</span>
+              <div className="w-20 h-20">
+                <img 
+                  src="/lovable-uploads/52284b2f-9e6a-4d05-be77-c13d69be6f28.png" 
+                  alt="Garantia incondicional de 15 dias" 
+                  className="w-full h-full object-contain"
+                />
               </div>
               <div className="text-left">
                 <h3 className="text-2xl font-bold">Garantia incondicional de 15 dias</h3>
