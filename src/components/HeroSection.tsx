@@ -13,8 +13,10 @@ export const HeroSection = () => {
           <div className="space-y-8 text-center lg:text-left">
             <div className="space-y-4">
               <p className="text-sm uppercase tracking-wide text-primary font-medium">
-7 RITMOS ESSENCIAIS DO PANDEIRO
-              </p>
+
+
+
+7 RITMOS ESSENCIAIS DO PANDEIRO</p>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold leading-tight">
                 <span className="text-foreground">Cansado de apenas </span>
                 <span className="text-primary">ouvir o pandeiro</span>
