@@ -24,7 +24,7 @@ export const HeroSection = () => {
             </div>
             
             <div className="space-y-6">
-              <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
+              <h2 className="text-xl md:text-3xl lg:text-4xl font-bold leading-tight">
                 <span className="text-foreground">Chegou a hora de </span>
                 <span className="text-primary">encontrar seu ritmo</span>
                 <span className="text-foreground"> e fazer parte da música.</span>
