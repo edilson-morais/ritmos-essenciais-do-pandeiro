@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cursopandeirosuzano.com/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cursopandeirosuzano.com/lovable-uploads/97e9c3db-a1ac-46b5-8771-f70ccc84c2e2.png</image:loc>
+      <image:title>Curso de Pandeiro Suzano Express</image:title>
+      <image:caption>Aprenda pandeiro com Marcos Suzano - 7 Ritmos Essenciais</image:caption>
+    </image:image>
+  </url>
+</urlset>
