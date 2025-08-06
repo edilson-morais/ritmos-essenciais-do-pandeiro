@@ -13,7 +13,7 @@ export const FAQSection = () => {
     },
     {
       question: "O que o curso inclui?",
-      answer: "Você terá acesso a aulas em vídeo, detalhadas e diretas, com o mestre Marcos Suzano, ensinando os 7 ritmos essenciais para começar a tocar."
+      answer: "Você terá acesso a aulas em vídeo, detalhadas e diretas, com o mestre Marcos Suzano, ensinando os 7 ritmos essenciais para começar a tocar.\n• Partido alto 1 e 2\n• Baião\n• Samba\n• Frevo\n• Baiãozinho Congada (criação Marcos Suzano)\n• Ciranda\n• Reggae"
     },
     {
       question: "Por que o curso é tão barato?",

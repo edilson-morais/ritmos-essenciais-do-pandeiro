@@ -15,7 +15,7 @@ export const HeroSection = () => {
               <p className="text-sm uppercase tracking-wide text-primary font-medium">
 7 RITMOS ESSENCIAIS DO PANDEIRO
               </p>
-              <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+              <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold leading-tight">
                 <span className="text-foreground">Cansado de apenas </span>
                 <span className="text-primary">ouvir o pandeiro</span>
                 <span className="text-foreground">, enquanto sonha em tocar?</span>
