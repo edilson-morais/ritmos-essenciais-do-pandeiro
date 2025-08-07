@@ -25,7 +25,7 @@ export const LearningSection = () => {
             
             
             <Button variant="cta" size="xl" asChild>
-              <a href="https://sun.eduzz.com/50027?utm_source=suzano+express&utm_id=pv">QUERO COMEÇAR AGORA POR R$ 27,00</a>
+              <a href="https://sun.eduzz.com/1W3ZRKAPW2?utm_source=botao_pv&utm_id=ritmos_essenciais_pv">QUERO COMEÇAR AGORA POR R$ 27,00</a>
             </Button>
           </div>
         </div>

@@ -34,7 +34,7 @@ export const HeroSection = () => {
             
             <div className="pt-4 lg:pt-8">
               <Button variant="hero" size="xl" className="mb-6 lg:mb-8 w-full sm:w-auto text-sm sm:text-base" asChild>
-                <a href="https://sun.eduzz.com/R9JJ12VE9X?utm_source=essenciais-pv&utm_id=7-ritmos_pv">QUERO COMEÇAR AGORA POR R$ 27,00</a>
+                <a href="https://sun.eduzz.com/1W3ZRKAPW2?utm_source=botao_pv&utm_id=ritmos_essenciais_pv">QUERO COMEÇAR AGORA POR R$ 27,00</a>
               </Button>
             </div>
           </div>

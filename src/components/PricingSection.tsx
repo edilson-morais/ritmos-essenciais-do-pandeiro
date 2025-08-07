@@ -46,7 +46,7 @@ export const PricingSection = () => {
               </div>
               
               <Button variant="hero" size="xl" className="w-full text-sm sm:text-base" asChild>
-                <a href="https://sun.eduzz.com/R9JJ12VE9X?utm_source=essenciais-pv&utm_id=7-ritmos_pv">QUERO MEU ACESSO AGORA POR R$ 27,00</a>
+                <a href="https://sun.eduzz.com/1W3ZRKAPW2?utm_source=botao_pv&utm_id=ritmos_essenciais_pv">QUERO MEU ACESSO AGORA POR R$ 27,00</a>
               </Button>
               
               <div className="flex flex-col sm:flex-row items-center justify-center space-y-3 sm:space-y-0 sm:space-x-4 pt-4">
